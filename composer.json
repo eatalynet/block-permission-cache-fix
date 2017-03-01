@@ -1,0 +1,16 @@
+{
+    "name": "eataly/block-permission-cache-fix",
+    "description": "This module addresses a potential issue caused by the block permissions implementation (patch SUPEE-6788 or CE>=1.9.2.2 or EE>=1.14.2.2).",
+    "version": "1.0.0",
+    "license": "Apache-2.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Alessandro Niciforo",
+            "email":"a.niciforo@eataly.it"
+        }
+    ]
+}

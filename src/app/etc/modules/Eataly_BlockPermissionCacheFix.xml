@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Eataly_BlockPermissionCacheFix>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Eataly_BlockPermissionCacheFix>
+    </modules>
+</config>

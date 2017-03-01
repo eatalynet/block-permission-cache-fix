@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Eataly_BlockPermissionCacheFix>
+            <version>1.0.0</version>
+        </Eataly_BlockPermissionCacheFix>
+    </modules>
+    <global>
+        <models>
+            <eataly_blockpermissioncachefix>
+                <class>Eataly_BlockPermissionCacheFix_Model</class>
+            </eataly_blockpermissioncachefix>
+            <admin_resource>
+                <rewrite>
+                    <block>Eataly_BlockPermissionCacheFix_Model_Admin_Resource_Block</block>
+                    <variable>Eataly_BlockPermissionCacheFix_Model_Admin_Resource_Variable</variable>
+                </rewrite>
+            </admin_resource>
+        </models>
+    </global>
+</config>
